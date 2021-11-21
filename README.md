@@ -19,7 +19,7 @@ Complete
 - Python
 - Tpot AutoML
 - Jupyter notebook
-- scikit-learn (random forest classifier
+- Scikit-learn (random forest classifier)
 
 
 
