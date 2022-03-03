@@ -1,4 +1,4 @@
-# AutoML_Biocehmistry
+# AutoML_Biochemistry
 
 ## Project intro
 This paper seeks to identify whether the analysis of Volatile Organic Compound (VOC) signals
